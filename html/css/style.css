@@ -1,0 +1,30 @@
+#index-header {
+    font-family: 'Alex Brush', cursive;
+    font-size: 85px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+
+}
+
+#sub-header-index {
+    font-family: 'Niconne', cursive;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+
+}
+
+body {
+    background-color: rgb(235, 173, 214)
+}
+
+#index-p {
+    font-family: 'Nanum Pen Script', serif;
+    font-size: 28px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+
+}
