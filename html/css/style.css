@@ -31,5 +31,15 @@ body {
 #signature {
 
     font-family: 'Tangerine';
-    font-size: 40px;
+    font-size: 85px;
+    color: rgb(210, 138, 138);
+ 
+  padding-left: 925px;
+  
+  
+
+}
+#newdelhi {
+
+    color: rgb(210, 138, 138)
 }
