@@ -1,6 +1,6 @@
 #index-header {
-    font-family: 'Alex Brush', cursive;
-    font-size: 85px;
+    font-family: 'Parisienne', cursive;
+    font-size: 95px;
     display: flex;
     justify-content: center;
     align-content: center;
@@ -8,8 +8,8 @@
 }
 
 #sub-header-index {
-    font-family: 'Niconne', cursive;
-    font-size: 40px;
+    font-family: 'Tangerine', cursive;
+    font-size: 50px;
     display: flex;
     justify-content: center;
     align-content: center;
@@ -17,14 +17,19 @@
 }
 
 body {
-    background-color: rgb(235, 173, 214)
+    background-color: rgb(242, 218, 234)
 }
 
 #index-p {
-    font-family: 'Nanum Pen Script', serif;
-    font-size: 28px;
+    font-family: 'Merriweather', serif;
+    font-size: 22px;
     display: flex;
     justify-content: center;
     align-content: center;
 
+}
+#signature {
+
+    font-family: 'Tangerine';
+    font-size: 40px;
 }
